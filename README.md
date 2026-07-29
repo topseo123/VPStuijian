@@ -6,8 +6,6 @@
 
 > **最近核对：2026-07-29**
 >
-> - 已删除中国国内厂商，以及无法明确确认境外运营主体的品牌。
-> - 当前保留 DMIT、搬瓦工、RackNerd、VMISS、Hostinger、InterServer、FriendHosting、SpartanHost 与 SharkTech。
 > - RackNerd `$11.29/年` 属于限量活动套餐，核对时活动页显示无库存，不能视为长期固定入门价。
 > - VPS 库存、线路、IP 属性、流媒体解锁和风控要求可能随时变化，购买前请再次检查商家结算页。
 
